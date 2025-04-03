@@ -1,0 +1,24 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "Major project for backend from the chai aur code series",
+  "homepage": "https://github.com/nitpatel678/chai-backend#readme",
+  "bugs": {
+    "url": "https://github.com/nitpatel678/chai-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitpatel678/chai-backend.git"
+  },
+  "license": "ISC",
+  "author": "Nitin Patel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "Nitin Patel"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.1"
+  }
+}
