@@ -1,0 +1,4 @@
+password for mongo atlas - M@ongodb000
+
+
+database compass link - mongodb+srv://nitpatel678:<db_password>@cluster01.wxrmhiw.mongodb.net/
